@@ -1,3 +1,4 @@
+# Build specification for CodeBuild to build and push Docker image to ECR
 version: 0.2
 
 env:
